@@ -1,1 +1,3 @@
-# Weather-App using HTML, CSS & JavaScript
+# Weather-App
+
+Made this weather app using HTML, CSS & JavaScript
